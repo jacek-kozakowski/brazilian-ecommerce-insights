@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlite3
+mlxtend
+folium
+networkx
+scikit-learn
+xgboost
