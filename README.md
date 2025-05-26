@@ -80,4 +80,4 @@ jupyter notebook BrazilianEcommerce.ipynb
 
 ## Author
 
-**Jacek Kozakowski** – [LinkedIn][https://www.linkedin.com/in/jacek-kozakowski-31b759356/]
+**Jacek Kozakowski** – [LinkedIn](https://www.linkedin.com/in/jacek-kozakowski-31b759356/)
